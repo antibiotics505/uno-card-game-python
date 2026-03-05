@@ -4,8 +4,6 @@
 
 # Game Screenshot
 
-Below is a screenshot of the program running in the terminal.
-
 ![UNO Game Screenshot](result.png)
 
 ---
